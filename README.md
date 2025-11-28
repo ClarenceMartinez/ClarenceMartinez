@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Clarence Martinez  
+### Fullstack Software Engineer · Laravel · PHP · MySQL · JavaScript
 
-<!--
-**ClarenceMartinez/ClarenceMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 15+ years of experience building large-scale platforms for billing, logistics, transportation,
+attendance tracking, multi-company systems, and automation workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔹 TaxLabPro – IRS Form Automation  
+Laravel 11 · MySQL · PDF Generator  
+Automation of IRS forms (433-A, 433-B, 2848, 8821) with client intake and workflow management.
+
+### 🔹 GeoGo – Attendance & Geofence Scheduling  
+Laravel 11 · Geolocation · Multi-Company  
+Platform to manage companies, branches with radius, staff roles and weekly geofence schedules.
+
+### 🔹 Illayrun Intranet – Bus Tickets & Cargo Platform  
+Laravel 11 · PHP 8.3 · Multi-Branch  
+Peruvian nationwide system for bus tickets, cargo shipments, e-invoicing and waybills.
+
+---
+
+## 🌐 Portfolio  
+👉 https://clarence-dev.com  
