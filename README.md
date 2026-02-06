@@ -1,64 +1,52 @@
 # 👋 Hi, I'm Clarence Martinez
 
-**Senior Fullstack Software Engineer – PHP/Laravel & Python/FastAPI**
+**Senior Backend / API Engineer** — PHP (Laravel) • Python (FastAPI) • MySQL Performance • AWS • Payments (Stripe/PayPal)
 
-With 14+ years of experience building large-scale platforms for billing, logistics, transportation, attendance tracking, multi-company systems, and automation workflows. I enjoy turning complex business rules into clean, maintainable code and shipping real products.
+I build scalable **CRM/ERP platforms**, **REST APIs**, and **microservices** with clean architecture and optimized databases.
+I enjoy turning complex business rules into reliable, maintainable systems and shipping real products.
 
-- 🏠 Based in **Utah, USA** (originally from Peru)  
-- 🌎 Open to **remote roles in the US** (Full Stack / Backend)  
+- 📍 Based in **West Valley City, Utah (USA)** — originally from Peru  
+- 💼 Open to **US-remote / hybrid / onsite (UT)** roles — **W2 or contract**
 - 💬 Bilingual: **Spanish / English**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Core Skills
 
-- **Backend:** PHP (Laravel 10–12, CodeIgniter), Python (FastAPI), REST APIs  
-- **Frontend:** JavaScript, jQuery, HTML5, CSS3, Bootstrap  
-- **Databases:** MySQL, PostgreSQL, SQL Server  
-- **Dev & Cloud:** Git/GitHub, AWS, Linux, queues, cron jobs  
-- **Patterns & Practices:** MVC, SOLID, multi-tenant & multi-company design, geolocation-based flows  
-
----
-
-## ⭐ Featured Projects
-
-### 🔹 TaxLabPro – IRS Form Automation  
-**Laravel 11 · MySQL · PDF Generation**  
-Platform for U.S. tax professionals to collect client data and automatically generate IRS forms (433-A, 433-B, 2848, 8821) with workflows and intake forms.  
+- **Backend / APIs:** REST API design, authentication, integrations, Swagger/OpenAPI  
+- **PHP:** Laravel (10–12), CodeIgniter, architecture patterns, queues/jobs, cron  
+- **Python:** FastAPI microservices, SQLAlchemy, Uvicorn  
+- **Databases:** MySQL (indexing, query optimization), PostgreSQL, SQL Server  
+- **Cloud/Dev:** AWS fundamentals, Linux, Git/GitHub
 
 ---
 
-### 🔹 GeoGo – Attendance & Geofence Scheduling  
-**Laravel 11 · Geolocation · Multi-Company**  
-Attendance and scheduling system that allows staff to check in/out from a mobile device with **geofence radius validation**, company/branch management, and weekly shift planning.  
+## ⭐ Featured Projects (Most Relevant)
 
----
-
-### 🔹 Illayrun Intranet – Bus Tickets & Cargo Platform  
-**Laravel 11 · PHP 8.3 · Multi-Branch**  
-Nationwide system for Peruvian bus companies: ticket sales, cargo shipments, invoicing, waybills, and branch management.  
-
----
-
-### 🔹 Geo Locations API – FastAPI Microservice (Python)  
-**Python · FastAPI · MySQL · SQLAlchemy**  
+### 🔹 Geo Locations API — FastAPI Microservice (Python)
+**FastAPI · MySQL · SQLAlchemy · Swagger/OpenAPI**  
 Microservice that registers and queries user geolocation data for the GeoGo ecosystem.  
-Provides clean REST endpoints and interactive Swagger documentation.  
-Repo: [`geo-locations-api-FastAPI`](https://github.com/ClarenceMartinez/geo-locations-api-FastAPI)
+Repo: https://github.com/ClarenceMartinez/geo-locations-api-FastAPI
+
+### 🔹 GeoGo — Attendance & Geofence Scheduling
+**Laravel · MySQL · Geolocation · Multi-Company/Multi-Branch**  
+Attendance and scheduling platform with **geofence radius validation**, company/branch management, and weekly shift planning.
+
+### 🔹 TaxLabPro — IRS Form Automation
+**Laravel · MySQL · PDF Generation · Workflows**  
+Platform for U.S. tax professionals to collect client data and generate IRS forms (433-A, 433-B, 2848, 8821) with intake, workflows, and printable PDFs.
+
+### 🔹 Illayrun Intranet — Transportation & Cargo Platform
+**Laravel · PHP 8.3 · Multi-Branch**  
+Transportation management system: ticket sales, cargo shipments, invoicing, waybills, and branch operations.
 
 ---
 
 ## 🌐 Portfolio
-
-🔗 **https://clarence-dev.com**
-
-There you can find more details, screenshots, and descriptions of my SaaS, ERP, logistics, and geolocation projects.
+https://clarence-dev.com
 
 ---
 
 ## 📩 Contact
-
-- ✉️ **wmmartinezc@gmail.com**  
-- 📍 **West Valley City, Utah**
-
-Always open to connecting about Laravel, Python/FastAPI, and real-world products in education, finance, logistics, and more.
+- ✉️ wmmartinezc@gmail.com
+- LinkedIn: https://www.linkedin.com/in/clarence-martinez-a328a181/
